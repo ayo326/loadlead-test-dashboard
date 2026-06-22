@@ -1,6 +1,6 @@
 {
   "__meta": {
-    "syncedAt": "2026-06-22T20:22:56.524Z",
+    "syncedAt": "2026-06-22T20:31:17.003Z",
     "tools": [
       "gitleaks",
       "npm-audit",
@@ -13,8 +13,10 @@
     "reported": 9
   },
   "__gate": {
-    "cat1": "HOLD",
-    "open_cat1": [],
+    "cat1": "RED",
+    "open_cat1": [
+      "LL-IA-002"
+    ],
     "pending_cat1": [
       "LL-AC-001",
       "LL-AC-003",
@@ -23,7 +25,7 @@
     ]
   },
   "LL-AC-002": "NotAFinding",
-  "LL-IA-002": "NotAFinding",
+  "LL-IA-002": "Open",
   "LL-IV-001": "NotAFinding",
   "LL-IV-002": "NotAFinding",
   "LL-IV-004": "NotAFinding",
