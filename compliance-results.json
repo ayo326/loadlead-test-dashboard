@@ -1,6 +1,6 @@
 {
   "__meta": {
-    "syncedAt": "2026-07-25T05:38:15.236Z",
+    "syncedAt": "2026-07-26T05:54:52.615Z",
     "tools": [
       "gitleaks",
       "npm-audit",
@@ -28,7 +28,7 @@
   "LL-IV-002": "NotAFinding",
   "LL-IV-004": "NotAFinding",
   "LL-IV-006": "NotAFinding",
-  "LL-SC-001": "Open",
+  "LL-SC-001": "NotAFinding",
   "LL-SC-002": "NotAFinding",
   "LL-SC-003": "NotAFinding"
 }
